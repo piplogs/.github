@@ -16,9 +16,6 @@
   <a href="https://twitter.com/piplogs" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-@piplogs-1da1f2?style=for-the-badge&logo=twitter" alt="Twitter"/>
   </a>
-  <a href="https://t.me/piplogs" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Chat-29a7de?style=for-the-badge&logo=telegram" alt="Telegram"/>
-  </a>
   <a href="mailto:contact@piplogs.com">
     <img src="https://img.shields.io/badge/Email-contact@piplogs.com-6e7cff?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
