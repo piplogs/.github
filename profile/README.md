@@ -23,9 +23,9 @@
 
 ---
 
-<h1 align="center">About Piplogs</p>
+<h1 align="center">About Piplogs</h1>
 
-<p align="center"><bold>Piplogs</bold> is a modern trading platform offering real-time analytics, advanced trading tools, and intuitive performance tracking for traders of all levels.</p>
+<p align="center"><b>Piplogs</b> is a modern trading platform offering real-time analytics, advanced trading tools, and intuitive performance tracking for traders of all levels.</p>
 
 ---
 
