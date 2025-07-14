@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Piplogs Logo" width="120"/>
+  <img src="./logo.png" alt="Piplogs Logo" />
 </p>
 
 <h1 align="center">Piplogs Organization</h1>
