@@ -26,18 +26,3 @@
 <h1 align="center">About Piplogs</h1>
 
 <p align="center"><b>Piplogs</b> is a modern trading platform offering real-time analytics, advanced trading tools, and intuitive performance tracking for traders of all levels.</p>
-
----
-
-## 🌐 Connect with Us
-
-- [Website](https://piplogs.com)
-- [Twitter](https://twitter.com/piplogs)
-- [Telegram](https://t.me/piplogs)
-- [Email](mailto:contact@piplogs.com)
-
----
-
-<p align="center">
-  <sub>© 2025 Piplogs. All rights reserved.</sub>
-</p>
